@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django_redis',
     'django_extensions',
+    'avengers'
 ]
 
 MIDDLEWARE = [

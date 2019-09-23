@@ -1,12 +1,11 @@
 *.pyc
-*.idea
 *.py[cod]
 __pycache__/
 .DS_Store
 env/
 .env
 venv/
-staticfiles/
+static/
 ref/
 obj/
 bin/
@@ -16,3 +15,13 @@ web.config
 *.pubxml
 *.pubxml.user
 *.sln
+
+# pyenv
+.python-version
+.idea/
+.idea
+
+#Untracking all migrations file without __init__.py
+**/migrations/*
+!**/migrations/__init__.py
+
