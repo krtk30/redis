@@ -1,7 +1,8 @@
 MODE = (('A', 'Active'), ('D', 'Deactive'), ('T', 'Trash'))
 
+USER_TYPE = (('Mutant', 'Mutant'), ('Alien', 'Alien'))
+
 GENDER = (('MALE', 'MALE'), ('FEMALE', 'FEMALE'), ('Androgyny', 'Androgyny'))
-APPROVAL = (('A', 'Approved'), ('P', 'Pending'), ('R', 'Rejected'))
 PLATFORM = (('A', "Android"), ('I', "iOS"), ('W', "Web"))
 
 SUBSCRIPTION_TYPE = (('M', "Monthly"), ('Q', "Quarterly"), ('Y', "Yearly"))
