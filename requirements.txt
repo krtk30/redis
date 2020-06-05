@@ -1,5 +1,5 @@
 crc16==0.1.1
-Django==2.2.5
+Django==2.2.13
 django-extensions==2.2.1
 djangorestframework==3.10.3
 pytz==2019.2
